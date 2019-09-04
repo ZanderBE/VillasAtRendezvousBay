@@ -1,0 +1,25 @@
+.navbar {
+  background: #373b4d;
+  min-height: 100px;
+  width: 100%;
+  -webkit-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25),
+    0 10px 10px rgba(0, 0, 0, 0.22);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  z-index: 99;
+  list-style: none;
+  white-space: nowrap;
+}
+
+.navbar-list {
+  font-family: "Cinzel", serif;
+  color: white;
+}
+
+.nav-link {
+  color: white;
+  font-family: "Cinzel", serif;
+}
+
+#logo {
+  height: 100px;
+}
